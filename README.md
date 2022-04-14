@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Soufiane-hamaji
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on java projects
 - 📫 How to reach me hammagisoufiane6@gmail.com
 
 <!---
