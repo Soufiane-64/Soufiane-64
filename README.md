@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Soufiane-hamaji
+- 👋 Hi, I’m @Soufiane-Hammagi
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning java
 - 📫 How to reach me hammagisoufiane6@gmail.com
