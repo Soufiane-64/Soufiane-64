@@ -10,11 +10,6 @@ Full stack Developer
 * 🤝  I'm open to collaborating on interesting spring boot projects
 * ⚡  I am not addicted to coffee, it find it's way every morning
 
-<a href="https://www.twitter.com/HammagiSoufiane" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/HammagiSoufiane?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/Soufiane-hamaji" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Soufiane-hamaji?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
 ### Skills
 
 <p align="left">
