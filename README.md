@@ -1,4 +1,4 @@
-Hi 👋 My name is soufiane hammagi
+Hi 👋 My name is Soufiane Hammagi
 =================================
 
 Full stack Developer
