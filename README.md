@@ -64,13 +64,3 @@
 <p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabirlkhaloufi&layout=compact&theme=radical&hide_border=true" alt="sabirlkhaloufi" /></p>
 
 
-### Badges
-
-
-<a href="http://www.github.com/Soufiane-hamaji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Soufiane-hamaji&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/Soufiane-hamaji"><img src="https://activity-graph.herokuapp.com/graph?username=Soufiane-hamaji&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
