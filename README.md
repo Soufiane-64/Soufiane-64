@@ -1,7 +1,5 @@
-Hi 👋 My name is Soufiane Hammagi
+								Hi 👋 My name is Soufiane Hammagi
 =================================
-
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer"></a>
 </p>
@@ -12,8 +10,6 @@ Hi 👋 My name is Soufiane Hammagi
 	<a href = "https://commits.top/morocco.html" target="_blank">
 	</a>
 </p>
-
-Full stack Developer
 --------------------
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
