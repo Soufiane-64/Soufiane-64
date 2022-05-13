@@ -16,8 +16,8 @@
 
 * 🌍  I'm based in Morocco, Agadir
 * ✉️  You can contact me at [hammagisoufiane6@gmail.com](mailto:hammagisoufiane6@gmail.com)
-* 🧠  I'm learning Spring boot
-* 🤝  I'm open to collaborating on interesting spring boot projects
+* 🧠  I'm learning everything 🤣
+* 🤝  I'm looking for ausbildung in Germany " Fachinformatiker Anwendungsentwicklung "
 * ⚡  I am not addicted to coffee, it find it's way every morning
 	
 
