@@ -1,8 +1,21 @@
 Hi 👋 My name is Soufiane Hammagi
 =================================
 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+Full+Stack+Web+Developer"></a>
+</p>
+
+<br>
+
+<p align="center"> 
+	<a href = "https://commits.top/morocco.html" target="_blank">
+	</a>
+</p>
+
 Full stack Developer
 --------------------
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 * 🌍  I'm based in Morocco, Agadir
 * ✉️  You can contact me at [hammagisoufiane6@gmail.com](mailto:hammagisoufiane6@gmail.com)
@@ -46,11 +59,18 @@ Full stack Developer
 <a href="https://discord.com/users/Soufiane#9936" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
 </p>
 
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
+
+
+
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=sabirlkhaloufi&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="sabirlkhaloufi" /></p>
+<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabirlkhaloufi&layout=compact&theme=radical&hide_border=true" alt="sabirlkhaloufi" /></p>
+
+
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Soufiane-hamaji"><img src="https://github-readme-stats.vercel.app/api?username=Soufiane-hamaji&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Soufiane-hamaji's GitHub stats" /></a>
 
 <a href="http://www.github.com/Soufiane-hamaji"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Soufiane-hamaji&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
