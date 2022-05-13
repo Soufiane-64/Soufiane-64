@@ -13,13 +13,13 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-<p align="left"> 
+
 * 🌍  I'm based in Morocco, Agadir
 * ✉️  You can contact me at [hammagisoufiane6@gmail.com](mailto:hammagisoufiane6@gmail.com)
 * 🧠  I'm learning Spring boot
 * 🤝  I'm open to collaborating on interesting spring boot projects
 * ⚡  I am not addicted to coffee, it find it's way every morning
-</p>	
+	
 
 ### Skills
 
