@@ -58,7 +58,7 @@
 </p>
 
 ## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/soufiane-64/Actions/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
 
 
 
