@@ -62,7 +62,7 @@
 
 
 
-<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=sabirlkhaloufi&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="sabirlkhaloufi" /></p>
-<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabirlkhaloufi&layout=compact&theme=radical&hide_border=true" alt="sabirlkhaloufi" /></p>
+<p align="left"><img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=soufiane-64&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="soufiane64" /></p>
+<p align="right"><img width="45%" align="right" sy src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufiane-64&layout=compact&theme=radical&hide_border=true" alt="soufiane-64" /></p>
 
 
