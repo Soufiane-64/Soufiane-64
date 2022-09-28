@@ -1,7 +1,7 @@
 ### Hi there, I'm Soufiane Hammagi 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+a+Full+Stack+Web+Developer"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=I'm+a+Web+Developer"></a>
 </p>
 
 <br>
