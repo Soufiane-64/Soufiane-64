@@ -14,7 +14,6 @@
 * 🌍  I'm based in Morocco, Agadir
 * ✉️  You can contact me at [hammagisoufiane6@gmail.com](mailto:hammagisoufiane6@gmail.com)
 * 🧠  I'm learning everything 🤣
-* 🤝  I'm looking for ausbildung in Germany ( Fachinformatiker )
 * ⚡  I am not addicted to coffee, it finds its way every morning
 	
 <!--
