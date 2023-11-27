@@ -11,9 +11,9 @@
 	</a>
 </p>
 
-* 🌍  I'm based in Morocco, Agadir
+* 🌍  I'm based in Germany, Bremen
 * ✉️  You can contact me at [hammagisoufiane6@gmail.com](mailto:hammagisoufiane@gmail.com)
-* 🧠  I'm learning everything 🤣
+* 🧠  I'm learning React 
 * ⚡  I am not addicted to coffee, it finds its way every morning
 	
 <!--
