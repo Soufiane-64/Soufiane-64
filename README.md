@@ -12,7 +12,7 @@
 </p>
 
 * 🌍  I'm based in Morocco, Agadir
-* ✉️  You can contact me at [hammagisoufiane6@gmail.com](mailto:hammagisoufiane6@gmail.com)
+* ✉️  You can contact me at [hammagisoufiane6@gmail.com](mailto:hammagisoufiane@gmail.com)
 * 🧠  I'm learning everything 🤣
 * ⚡  I am not addicted to coffee, it finds its way every morning
 	
