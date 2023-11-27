@@ -12,7 +12,7 @@
 </p>
 
 * 🌍  I'm based in Germany, Bremen
-* ✉️  You can contact me at [hammagisoufiane6@gmail.com](mailto:hammagisoufiane@gmail.com)
+* ✉️  You can contact me at [hammagisoufiane@gmail.com](mailto:hammagisoufiane@gmail.com)
 * 🧠  I'm learning React 
 * ⚡  I am not addicted to coffee, it finds its way every morning
 	
