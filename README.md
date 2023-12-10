@@ -10,10 +10,14 @@
 	<a href = "https://commits.top/morocco.html" target="_blank">
 	</a>
 </p>
-* 🌍  I'm based in Germany, Bremen
-* ✉️  You can contact me at [hammagisoufiane@gmail.com](mailto:hammagisoufiane@gmail.com)
-* 🧠  I'm learning React 
-* ⚡  I am not addicted to coffee, it finds its way every morning
+<img src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" align="right" alt="coder" width="400">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=marouanehammagi&label=Profile%20views&color=0e75b6&style=flat" alt="soufiane-64" /> </p>
+
+* 🌍  I'm based in Germany, Bremen <br>
+* ✉️  You can contact me at [hammagisoufiane@gmail.com](mailto:hammagisoufiane@gmail.com) <br>
+* 🧠  I'm learning React <br>
+* ⚡  I am not addicted to coffee, it finds its way every morning <br>
 	
 <!--
 ### Skills
