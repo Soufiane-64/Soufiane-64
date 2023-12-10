@@ -11,6 +11,7 @@
 	</a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marouanehammagi&label=Profile%20views&color=0e75b6&style=flat" alt="soufiane-64" /> </p>
+<br>
 * 🌍  I'm based in Germany, Bremen
 * ✉️  You can contact me at [hammagisoufiane@gmail.com](mailto:hammagisoufiane@gmail.com)
 * 🧠  I'm learning React 
