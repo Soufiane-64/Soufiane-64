@@ -12,7 +12,7 @@
 </p>
 <img src="https://raw.githubusercontent.com/punitkmryh/punitkmryh/master/Developer.gif" align="right" alt="coder" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marouanehammagi&label=Profile%20views&color=0e75b6&style=flat" alt="soufiane-64" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soufianehammagi&label=Profile%20views&color=0e75b6&style=flat" alt="soufiane-64" /> </p>
 
 * 🌍  I'm based in Germany, Bremen <br>
 * ✉️  You can contact me at [hammagisoufiane@gmail.com](mailto:hammagisoufiane@gmail.com) <br>
