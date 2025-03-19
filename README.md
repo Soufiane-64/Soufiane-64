@@ -78,18 +78,18 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <div style="display: inline-block; width: 420px;">
-    <!-- Your GitHub Stats widget with width parameter -->
-    <img width="420" src="[your-stats-url&card_width=420](https://github-readme-stats.vercel.app/api?username=soufiane-64&show_icons=true&theme=tokyonight&hide_border=true&card_width=400)" />
-  </div>
-  <div style="display: inline-block; width: 420px;">
-    <!-- Your Languages widget with width parameter -->
-    <img width="420" src="[your-languages-url&card_width=420](https://github-readme-stats.vercel.app/api/top-langs/?username=soufiane-64&layout=compact&theme=tokyonight&hide_border=true&card_width=400)" />
-  </div>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soufiane-64&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <!-- GitHub Stats Card -->
+  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=soufiane-64&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  
+  <br><br>
+  
+  <!-- Most Used Languages Card -->
+  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufiane-64&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  
+  <br><br>
+  
+  <!-- GitHub Streak Stats -->
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=soufiane-64&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
