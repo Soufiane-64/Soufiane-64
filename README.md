@@ -77,9 +77,11 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=soufiane-64&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufiane-64&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img style="width: 45%; min-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=soufiane-64&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img style="width: 45%; min-height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufiane-64&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </div>
 
 ---
