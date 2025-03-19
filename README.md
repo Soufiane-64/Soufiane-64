@@ -77,7 +77,7 @@
 
 ## 📊 GitHub Stats
 
-<table>
+<table border="0">
   <tr>
     <td valign="top">
       <img width="100%" height="180px" src="https://github-readme-stats.vercel.app/api?username=soufiane-64&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
