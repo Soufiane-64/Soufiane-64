@@ -7,6 +7,7 @@
 
 ## About Me
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" align="right" alt="coder" width="300">
+
 - 🌍 Based in **Bremen, Germany**
 - 💻 Working as a **Web Developer**
 - 🧠 Currently learning **React**
