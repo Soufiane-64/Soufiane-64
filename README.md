@@ -77,12 +77,16 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img style="width: 45%; min-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=soufiane-64&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img style="width: 45%; min-height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufiane-64&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</div>
+<table>
+  <tr>
+    <td valign="top">
+      <img width="100%" height="180px" src="https://github-readme-stats.vercel.app/api?username=soufiane-64&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td valign="top">
+      <img width="100%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufiane-64&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
