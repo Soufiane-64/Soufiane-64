@@ -80,11 +80,11 @@
 <div align="center">
   <div style="display: inline-block; width: 420px;">
     <!-- Your GitHub Stats widget with width parameter -->
-    <img width="420" src="your-stats-url&card_width=420" />
+    <img width="420" src="[your-stats-url&card_width=420](https://github-readme-stats.vercel.app/api?username=soufiane-64&show_icons=true&theme=tokyonight&hide_border=true&card_width=400)" />
   </div>
   <div style="display: inline-block; width: 420px;">
     <!-- Your Languages widget with width parameter -->
-    <img width="420" src="your-languages-url&card_width=420" />
+    <img width="420" src="[your-languages-url&card_width=420](https://github-readme-stats.vercel.app/api/top-langs/?username=soufiane-64&layout=compact&theme=tokyonight&hide_border=true&card_width=400)" />
   </div>
 </div>
 
