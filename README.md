@@ -6,7 +6,7 @@
 
 
 ## About Me
-<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" align="right" alt="coder" width="300">
+<img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" align="right" alt="coder" width="200">
 
 - 🌍 Based in **Bremen, Germany**
 - 💻 Working as a **Web Developer**
