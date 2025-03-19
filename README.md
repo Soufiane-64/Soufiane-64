@@ -6,7 +6,7 @@
 
 
 ## About Me
-<img src="https://img.freepik.com/vecteurs-libre/illustration-concept-activite-developpeur_114360-2801.jpg?t=st=1742378273~exp=1742381873~hmac=4014cd712d356703bea3852db1d8c1ad8d6ab618fb93814cb1331c231ef06cff&w=740" align="right" alt="coder" width="300">
+<img src="https://storyset.com/web" align="right" alt="coder" width="300">
 
 - 🌍 Based in **Bremen, Germany**
 - 💻 Working as a **Web Developer**
