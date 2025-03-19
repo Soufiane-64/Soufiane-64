@@ -4,10 +4,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=Web+Developer;Frontend+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" /></a>
 </p>
 
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" align="right" alt="coder" width="300">
 
 ## About Me
-
+<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" align="right" alt="coder" width="300">
 - 🌍 Based in **Bremen, Germany**
 - 💻 Working as a **Web Developer**
 - 🧠 Currently learning **React**
