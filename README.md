@@ -78,13 +78,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=soufiane-64&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufiane-64&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-  
-  <br><br>
-  
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=soufiane-64&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img width="45%" src="https://github-profile-trophy.vercel.app/?username=soufiane-64&theme=tokyonight&no-frame=true" alt="GitHub Trophies" />
+  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api?username=soufiane-64&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="45%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufiane-64&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </div>
 
 ---
