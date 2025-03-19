@@ -77,12 +77,15 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <!-- First Box -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=soufiane-64&show_icons=true&theme=tokyonight&hide_border=true&card_width=400" alt="GitHub Stats" />
-  
-  <!-- Second Box -->
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=soufiane-64&layout=compact&theme=tokyonight&hide_border=true&card_width=400" alt="Top Languages" />
+<div align="center">
+  <div style="display: inline-block; width: 420px;">
+    <!-- Your GitHub Stats widget with width parameter -->
+    <img width="420" src="your-stats-url&card_width=420" />
+  </div>
+  <div style="display: inline-block; width: 420px;">
+    <!-- Your Languages widget with width parameter -->
+    <img width="420" src="your-languages-url&card_width=420" />
+  </div>
 </div>
 
 <div align="center">
