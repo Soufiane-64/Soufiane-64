@@ -91,7 +91,7 @@
 
 <div align="center">
   <h3>Coding Time</h3>
-  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=soufiane-64&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=soufiane-64&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 
