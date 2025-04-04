@@ -91,7 +91,7 @@
 
 <div align="center">
   <h3>Coding Time</h3>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=soufiane-64&layout=compact&theme=radical&hide_border=true" />
+  <img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=soufiane-64&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 
