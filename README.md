@@ -1,16 +1,12 @@
 # Soufiane Hammagi
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=&animation=fadeIn" width="100%" alt="Header" />
+<p align="center" style="position: relative;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header" width="100%" alt="Header" />
+  <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=Web+Developer;Frontend+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" />
+  </span>
 </p>
 
-<div align="center" style="margin-top:-160px;">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=Web+Developer;Frontend+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" />
-  </a>
-</div>
-
-<div style="margin-bottom:70px;"></div>
 
 ## About Me
 <img src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" align="right" alt="coder" width="250">
