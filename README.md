@@ -1,14 +1,19 @@
 # Soufiane Hammagi
 
-<div style="position: relative; width: 100%; text-align: center;">
-  <!-- Wave Background -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header" width="100%" alt="Header" style="position: relative; z-index: 1;">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=&animation=fadeIn" width="100%" alt="Header" />
+</p>
 
-  <!-- Typing Text in Front -->
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); z-index: 2;">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=Web+Developer;Frontend+Enthusiast;UI%2FUX+Designer" alt="Typing SVG">
-  </div>
+<div align="center" style="margin-top:-160px;">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=Web+Developer;Frontend+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" />
+  </a>
 </div>
+
+<div style="margin-bottom:70px;"></div>
+
+
+in this code i want the to waves effect  abouv to be a bachjground of the text that will be shwon from the scond code snippet
 
 
 
