@@ -1,5 +1,3 @@
-# Soufiane Hammagi
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Soufiane%20Hammagi&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header" />
 </p>
@@ -96,10 +94,10 @@
 ## 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Soufiane-64/project-name">
+  <a href="https://github.com/Soufiane-64/Stock-Management">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=soufiane-64&repo=project-name&theme=tokyonight&hide_border=true" alt="Project Repo" />
   </a>
-  <a href="https://github.com/Soufiane-64/another-project">
+  <a href="https://github.com/Soufiane-64/FlaskCrudApp">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=soufiane-64&repo=another-project&theme=tokyonight&hide_border=true" alt="Project Repo" />
   </a>
 </div>
