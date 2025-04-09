@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
-  <img src="https://img.shields.io/badge/AdobeIllustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Illustrator" />
   <!-- Newly added skills -->
   <img src="https://img.shields.io/badge/Webix-2DC214?style=for-the-badge&logo=webix&logoColor=white" alt="Webix" />
   <img src="https://img.shields.io/badge/ExtJS-86BC40?style=for-the-badge&logo=sencha&logoColor=white" alt="ExtJS" />
