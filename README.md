@@ -82,7 +82,7 @@
   </a>
 </div>
 <div align="center">
-  <img width="88%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=soufiane-64&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width="87%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=soufiane-64&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
 
