@@ -84,7 +84,7 @@
 
 <div align="center">
   <h3>Coding Time</h3>
-  <img width="90%" src="https://streak-stats.demolab.com?user=soufiane-64&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img width="90%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=soufiane-64&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
 
