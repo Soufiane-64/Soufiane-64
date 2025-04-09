@@ -77,8 +77,8 @@
 
 <div align="center">
   <a href="https://github.com/soufiane-64">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=soufiane-64&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=soufiane-64&show_icons=true&locale=en&layout=compact&theme=radical&hide_border=true" />
+     <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=soufiane-64&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+    <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=soufiane-64&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   </a>
 </div>
 
