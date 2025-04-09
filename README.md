@@ -85,12 +85,6 @@
   <img width="88%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=soufiane-64&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
 </div>
 
-<h1  align="center">🐍 My Contributions 🐍</h1>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/soufiane-64/soufiane-64/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
 ---
 
 <p align="center">
