@@ -59,23 +59,6 @@
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-    <div style="font-size: 12px;">JavaScript</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-    <div style="font-size: 12px;">TypeScript</div>
-  </div>
-  <div style="text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-    <div style="font-size: 12px;">React</div>
-  </div>
-  <!-- Add more blocks here in the same pattern -->
-</div>
-
 </p>
 
 ## 🌐 Connect With Me
