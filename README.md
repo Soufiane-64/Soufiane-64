@@ -76,6 +76,12 @@
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="16" style="margin-right:6px; filter: brightness(0) invert(1);" />
       Java
   </span>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
+  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/C%23-178600?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
 </div>
 
 
