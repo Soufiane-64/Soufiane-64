@@ -52,30 +52,6 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <span style="display:inline-flex; align-items:center; background:#31A8FF; color:white; padding:0 10px; font-family:'Segoe UI',sans-serif; font-size:11px; font-weight:bold; text-transform:uppercase; letter-spacing:0.5px; height:28px; justify-content:center; border-radius:4px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" height="16" style="margin-right:6px; filter: brightness(0) invert(1);" />
-      Photoshop
-  </span>
-  <span style="display:inline-flex; align-items:center; background:#FF26BE; color:white; padding:4px 8px; font-family:sans-serif; font-size:14px; font-weight:bold; text-transform:uppercase; letter-spacing:2px; height:20px; justify-content:center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" alt="Adobe XD" height="16" style="margin-right:6px; filter: brightness(0) invert(1);" />
-      Adobe XD
-  </span>
-  <span style="display:inline-flex; align-items:center; background:#FF9A00; color:white; padding:4px 8px; font-family:sans-serif; font-size:14px; font-weight:bold; text-transform:uppercase; letter-spacing:2px; height:20px; justify-content:center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator" height="16" style="margin-right:6px; filter: brightness(0) invert(1);" />
-      Illustrator
-  </span>
-  <span style="display:inline-flex; align-items:center; background:#178600; color:white; padding:4px 8px; font-family:sans-serif; font-size:14px; font-weight:bold; text-transform:uppercase; letter-spacing:2px; height:20px; justify-content:center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" alt="C#" height="16" style="margin-right:6px; filter: brightness(0) invert(1);" />
-      csharp
-  </span>
-  <span style="display:inline-flex; align-items:center; background:#CC2927; color:white; padding:4px 8px; font-family:sans-serif; font-size:14px; font-weight:bold; text-transform:uppercase; letter-spacing:2px; height:20px; justify-content:center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="16" style="margin-right:6px; filter: brightness(0) invert(1);" />
-      SQL Server
-  </span>
-  <span style="display:inline-flex; align-items:center; background:#007396; color:white; padding:4px 8px; font-family:sans-serif; font-size:14px; font-weight:bold; text-transform:uppercase; letter-spacing:2px; height:20px; justify-content:center;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="16" style="margin-right:6px; filter: brightness(0) invert(1);" />
-      Java
-  </span>
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Adobe_XD-FF26BE?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
   <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
