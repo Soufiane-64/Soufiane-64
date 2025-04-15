@@ -52,7 +52,7 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white" alt="Jinja" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <span style="display:inline-flex; align-items:center; background:#31A8FF; color:white; padding:4px 8px; font-family:sans-serif; font-size:14px; font-weight:bold; text-transform:uppercase; letter-spacing:2px; height:20px; justify-content:center;">
+  <span style="display:inline-flex; align-items:center; background:#31A8FF; color:white; padding:0 10px; font-family:'Segoe UI',sans-serif; font-size:11px; font-weight:bold; text-transform:uppercase; letter-spacing:0.5px; height:28px; justify-content:center; border-radius:4px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop" height="16" style="margin-right:6px; filter: brightness(0) invert(1);" />
       Photoshop
   </span>
