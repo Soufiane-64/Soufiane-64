@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Soufiane%20Hammagi&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Soufiane%20Hammagi&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=40" width="100%" alt="Header" style="pointer-events: none;" />
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Web+Developer;Frontend+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Web+Developer;Frontend+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" style="pointer-events: none;" />
 </div>
 
 ## About Me
