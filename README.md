@@ -3,9 +3,7 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Web+Developer;Frontend+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&vCenter=true&width=500&lines=Web+Developer;Frontend+Enthusiast;UI%2FUX+Designer" alt="Typing SVG" />
 </div>
 
 ## About Me
@@ -15,7 +13,7 @@
 - 💻 Working as a **Web Developer**
 - 🧠 Currently learning **React** and exploring modern frontend frameworks
 - 🚀 Passionate about creating responsive and intuitive user interfaces
-- 📧 Reach me at: [hammagisoufiane@gmail.com](mailto:hammagisoufiane@gmail.com)
+- 📧 Reach me at: hammagisoufiane@gmail.com
 - ⚡ Fun fact: I am not addicted to coffee, it finds its way to me every morning ☕
 
 <p align="left">
@@ -64,36 +62,20 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/soufiane-hammagi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.github.com/Soufiane-hamaji" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://discord.com/users/Soufiane#9936" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
-  <a href="https://www.instagram.com/soufiane.64" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.facebook.com/soufhmj" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://www.dev.to/soufianehmg" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
-  </a>
-  <a href="https://hashnode.com/@Soufiane64" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
-  </a>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" />
+  <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" />
 </p>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/soufiane-64">
-    <img height="185em" src="https://github-readme-stats-salesp07.vercel.app/api?username=soufiane-64&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-    <img height="185em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=soufiane-64&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-  </a>
+  <img height="185em" src="https://github-readme-stats-salesp07.vercel.app/api?username=soufiane-64&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img height="185em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=soufiane-64&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 <div align="center">
   <img width="88%" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=soufiane-64&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
